@@ -1,10 +1,10 @@
 {
   "name": "@bacural/crypto",
   "version": "1.0.0",
+  "author": "Francisco Damiao Terto <franciscojunior@feegow.com.br>",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": "https://github.com/franciscodamiao/bacural-crypto.git",
-  "author": "Francisco Damiao Terto <franciscojunior@feegow.com.br>",
   "license": "MIT",
   "devDependencies": {
     "ts-node": "^10.2.0",
