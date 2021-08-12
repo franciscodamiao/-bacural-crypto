@@ -1,0 +1,8 @@
+{
+  "name": "@bacural/crypto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/franciscodamiao/bacural-crypto.git",
+  "author": "Francisco Damiao Terto <franciscojunior@feegow.com.br>",
+  "license": "MIT"
+}
